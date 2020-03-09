@@ -18,5 +18,8 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
+Primero "npm i"
+Segundo "npm run build"
+Y despues en /dist se encontrara el index.html compiulado. Se puede ver solo bajo un servidor (e.g. localhost:8080 desde la /dist)
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+

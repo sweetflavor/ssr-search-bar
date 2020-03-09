@@ -1,7 +1,7 @@
 {
-  "name": "search-barTX",
+  "name": "search-bar",
   "version": "1.0.0",
-  "description": "My polished Nuxt.js project",
+  "description": "Test of SEO friendly select element",
   "author": "Aleksandar Manasiev",
   "private": true,
   "scripts": {
